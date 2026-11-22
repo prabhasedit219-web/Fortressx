@@ -1,0 +1,2 @@
+Open the project in Android Studio (Ladybug or newer). Studio generates the Gradle wrapper
+(Gradle 8.9 recommended) and syncs automatically. From a terminal: `gradle wrapper --gradle-version 8.9`.
